@@ -25,3 +25,10 @@ float: right;
 .achievement_text span {
 color: orange
 }
+.new {
+margin-bottom: 20px;
+}
+#contact iframe
+{
+width: 100%;
+}
